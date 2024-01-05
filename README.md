@@ -4,7 +4,7 @@
       <img src="https://img.shields.io/discord/1074598387611090964?label=discord&style=for-the-badge&color=blue"/>
   </a>
   <a href="https://blog.iswd.top" alt="Website">
-      <img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fiswd.top"/>
+      <img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fblog.iswd.top"/>
   </a>
 </h3>
 
